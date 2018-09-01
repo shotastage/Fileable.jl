@@ -1,0 +1,6 @@
+authors = ["Shota Shimazu <hornet.live.mf@gmail.com>"]
+name = "Fileable.jl"
+uuid = "afa4e934-ae0b-11e8-289b-e5b2cde30944"
+version = "0.1.0"
+
+[deps]
